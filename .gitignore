@@ -1,0 +1,8 @@
+.dvc
+.idea
+.ipynb_checkpoints
+myenv
+Access token.txt
+.env
+notebook
+docs
