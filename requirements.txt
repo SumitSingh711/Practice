@@ -5,3 +5,6 @@ langchain-groq
 python-dotenv
 streamlit
 pypdf
+sentence-transformers
+lanchain_huggingface
+langchain_chroma
