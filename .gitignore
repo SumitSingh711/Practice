@@ -6,3 +6,4 @@ Access token.txt
 .env
 notebook
 docs
+/chroma_db
