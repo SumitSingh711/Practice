@@ -8,3 +8,4 @@ pypdf
 sentence-transformers
 lanchain_huggingface
 langchain_chroma
+youtube-transcript-api
